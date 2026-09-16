@@ -62,9 +62,7 @@ Standard churn models often suffer from target leakage by using lifetime feature
 ## Repository Setup & Execution
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/jpmc-customer-retention-analytics.git](https://github.com/your-username/jpmc-customer-retention-analytics.git)
-   cd jpmc-customer-retention-analytics
+  
 2. Install dependencies:
 
 ```bash
