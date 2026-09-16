@@ -18,12 +18,15 @@ Designed specifically for enterprise retail contexts, the pipeline features a **
 
 Raw Transaction Logs (500k+)
 │
-▼ [Python / Pandas]
+▼ 
+[Python / Pandas]
 Data Cleaning, Return Flagging & Net Unit Economics Handling
 │
-▼ [MySQL Data Warehouse]
+▼ 
+[MySQL Data Warehouse]
 Indexed Star Schema (fact_transactions, dim_customers, dim_products)
 │
+
 ├──► [MySQL Views] ──► NTILE() RFM Behavioral Segmentation
 │
 ├──► [Scikit-Learn] ──► Leakage-Free Temporal Churn Model (Observation vs. Performance)
